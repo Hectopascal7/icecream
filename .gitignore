@@ -54,3 +54,5 @@ build/
 # system ignore
 .DS_Stroe
 Thumbs.db
+
+rebel.xml
